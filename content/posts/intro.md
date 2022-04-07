@@ -7,8 +7,11 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Para mi la cultura de un Profecional del software se base en lo siguiente:
 
 -Respeto
+
 -Confianza
+
 -Honestidad
+
 -Dedicacion
 
 Esto es muy importante para mi.
